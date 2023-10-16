@@ -20,11 +20,3 @@ and by guessing more specific answers, they could get more points for taking a r
 **Citations:** \
 random number generating code used in Card.cpp from: \
 https://www.geeksforgeeks.org/rand-and-srand-in-ccpp/ 
-
-**Grade:** \
-I believe I have followed all the requirements for an 100 project. I was able
-to incorporate all requirements into a program in a way that made sense for each of the elements including
-2 classes, enum, struct, and overloaded operators. 
-It is very well documented with lots of comments. It has no runtime or compiler errors, and it has been
-tested in all circumstances and no logic errors have come up. The program also has a clear purpose and 
-is a simple yet entertaining game. 
